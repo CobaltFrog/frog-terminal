@@ -1,0 +1,21 @@
+{
+  "name": "frog-terminal",
+  "displayName": "Frog Terminal",
+  "description": "Who needs a theme with more than 16* colors anyway?",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Frog Terminal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/frog-terminal-color-theme.json"
+      }
+    ]
+  }
+}
