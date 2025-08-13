@@ -5,3 +5,7 @@
 ### Added
 
 - Dark theme
+
+### Removed
+
+- Syntax colors
