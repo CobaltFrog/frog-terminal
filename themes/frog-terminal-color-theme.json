@@ -1,17 +1,91 @@
 {
   "name": "Frog Terminal",
   "type": "dark",
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#52a535"
+      }
+    },
+    {
+      "scope": "string",
+      "settings": {
+        "foreground": "#FF5555"
+      }
+    },
+    {
+      "scope": "constant",
+      "settings": {
+        "foreground": "#FF55FF"
+      }
+    },
+    {
+      "scope": "keyword",
+      "settings": {
+        "foreground": "#AA00AA"
+      }
+    },
+    {
+      "scope": "storage.type",
+      "settings": {
+        "foreground": "#00AAAA"
+      }
+    },
+    {
+      "scope": "entity.name.function",
+      "settings": {
+        "foreground": "#FFFF55"
+      }
+    },
+    {
+      "scope": "entity.name.method",
+      "settings": {
+        "foreground": "#FFFF55"
+      }
+    },
+    {
+      "scope": "entity.name.class",
+      "settings": {
+        "foreground": "#FFFF55"
+      }
+    },
+    {
+      "scope": "entity.name",
+      "settings": {
+        "foreground": "#FFFF55"
+      }
+    },
+    {
+      "scope": "variable",
+      "settings": {
+        "foreground": "#5555FF"
+      }
+    },
+    {
+      "scope": "support",
+      "settings": {
+        "foreground": "#0000AA"
+      }
+    },
+    {
+      "scope": "invalid",
+      "settings": {
+        "foreground": "#AA0000"
+      }
+    }
+  ],
   "colors": {
     "foreground": "#52a535",
     "focusBorder": "#52a535",
-    "selection.background": "#ffffff3a",
+    "selection.background": "#52a53540",
     "scrollbar.shadow": "#000000",
     "activityBar.foreground": "#52a535",
     "activityBar.background": "#000000",
     "activityBar.inactiveForeground": "#52a535",
     "activityBarBadge.foreground": "#000000",
     "activityBarBadge.background": "#52a535",
-    "activityBar.border": "#00000000",
+    "activityBar.border": "#52a535",
     "activityBar.activeBackground": "#00000000",
     "sideBar.background": "#000000",
     "sideBar.foreground": "#52a535",
@@ -90,7 +164,7 @@
     "editor.findMatchHighlightBorder": "#ffffff",
     "editor.findRangeHighlightBackground": "#ffffff3a",
     "editor.findRangeHighlightBorder": "#ffffff00",
-    "editor.rangeHighlightBackground": "#ffffff0b",
+    "editor.rangeHighlightBackground": "#52a53540",
     "editor.rangeHighlightBorder": "#ffffff00",
     "editor.hoverHighlightBackground": "#ffffff3a",
     "editor.wordHighlightStrongBackground": "#004972b8",
