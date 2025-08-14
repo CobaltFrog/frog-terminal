@@ -17,41 +17,23 @@
     {
       "scope": "constant",
       "settings": {
-        "foreground": "#FF55FF"
+        "foreground": "#AA00AA"
       }
     },
     {
       "scope": "keyword",
       "settings": {
-        "foreground": "#AA00AA"
+        "foreground": "#FF55FF"
       }
     },
     {
-      "scope": "storage.type",
+      "scope": "storage",
       "settings": {
         "foreground": "#00AAAA"
       }
     },
     {
-      "scope": "entity.name.function",
-      "settings": {
-        "foreground": "#FFFF55"
-      }
-    },
-    {
-      "scope": "entity.name.method",
-      "settings": {
-        "foreground": "#FFFF55"
-      }
-    },
-    {
-      "scope": "entity.name.class",
-      "settings": {
-        "foreground": "#FFFF55"
-      }
-    },
-    {
-      "scope": "entity.name",
+      "scope": "entity",
       "settings": {
         "foreground": "#FFFF55"
       }
