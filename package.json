@@ -1,6 +1,7 @@
 {
   "name": "frog-terminal",
   "displayName": "Frog Terminal",
+  "publisher": "cobalt-frog",
   "description": "Who needs a theme with more than 16* colors anyway?",
   "version": "0.0.1",
   "engines": {
